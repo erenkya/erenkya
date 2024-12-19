@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>👋 Hi, I'm Eren Kaya, a Senior Student at FMV Işık University, specializing in Full-Stack Web Development.<br><br>🚀 My Expertise<br>💻 Full-Stack Web Development<br>🌐 Frontend: HTML, CSS, JavaScript, React , Streamlit<br>📦 Backend: Node.js<br>🛢️ Databases: MongoDB, MySQL
+About Me<br>👋 Hi, I'm Eren Kaya, a Junior Software Engineer at Siemens, Full-Stack developer , specializing in ML and AI.<br><br>🚀 My Expertise<br>💻 Full-Stack Web Development<br>🌐 Frontend: JavaScript, React , Streamlit<br>📦 Backend: Node.js , Spring<br>🛢️ Docker
 
 
 ## 🌐 Socials:
